@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alberto12216" target="blank"><img align="center" src="https://i.pinimg.com/474x/ee/4b/ec/ee4bec98e284c251b885707a470ad3b8.jpg" alt="alberto12216" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alberto-martínez-b69519107" target="blank"><img align="center" src="https://c0.klipartz.com/pngpicture/119/108/gratis-png-escritorio-de-logo-de-iconos-de-computadora-linkedin.png" alt="alberto-martínez-b69519107" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alberto-martínez-b69519107" target="blank"><img align="center" src="https://c0.klipartz.com/pngpicture/119/108/gratis-png-escritorio-de-logo-de-iconos-de-computadora-linkedin.png" alt="alberto-martínez-b69519107" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
