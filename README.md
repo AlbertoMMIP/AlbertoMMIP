@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alberto</h1>
 <h3 align="center">A passionate Full Stack Developer Java Script from México</h3>
 
-- 🔭 I’m currently working on [Intelligential](https://www.intelligential.tech/)
+- 🔭 I’m currently working at [Intelligential](https://www.intelligential.tech/)
 
 - 🌱 I’m currently learning **Clean Code and CI/CD**
 
@@ -11,11 +11,11 @@
 
 - 👨‍ 💻 All of my projects are available at [https://github.com/AlbertoMMIP](https://github.com/AlbertoMMIP)
 
-- 💬  Ask me about **JavaScript React, Vue, Node, SQL, NoSQL**
+- 💬  Ask me about **JavaScript React, Vue, Node, GraphQL, SQL, NoSQL**
 
 - 📫  How to reach me **josealberto.martinezmarquez@gmail.com**
 
-- 📄  Creator of the site => http://www.colorydestellos.com/
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
